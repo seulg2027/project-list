@@ -6,6 +6,7 @@
 
 | No  | 프로젝트 이름                    | 설명                                           | 주요 기술                                    | 참여 인원         | 링크         | 마지막 수정 날짜       |
 |-----|----------------------------------|----------------------------------------------|--------------------------------------------|-------------------|-------------|-----------|
+| 2   | 검색 로그 모니터링 시스템 구축 프로젝트     | 웹 서비스의 검색 로그 및 사용자 로그 데이터를 자동으로 수집하고 저장하는 파이프라인 구축 | Spring Boot(JPA), Mysql, ELK, EFK, Docker, AWS EC2 | 👩‍👩‍👧‍👦 (5명)   | [GitHub 링크](https://github.com/Seollal-TF-TEAM/Search-Stack) | 2025-01-30 |
 | 1   | 카드 소비 데이터 플랫폼     | 소비 데이터를 수집하고 검색하는 플랫폼을 개발하고, Web MVC 패턴에 대해 학습합니다. | Spring Boot, React, Oracle, DBeaver | 👩‍👩‍👧‍👦 (4명)   | [GitHub 링크](https://github.com/seulg2027/card_consume_data_platform) | 2025-01-14 |
 
 ### 💛 Infra Architecture & Ananytics Project
